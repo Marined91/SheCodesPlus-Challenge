@@ -40,3 +40,10 @@
   border-width: 0.5px;
   border-radius: 3px;
 }
+
+.source {
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: #006494;
+}
